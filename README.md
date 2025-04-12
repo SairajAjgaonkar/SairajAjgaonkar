@@ -1,4 +1,4 @@
-###🎯 Sairaj Ajgaonkar – From Visuals to Visualizations
+### 🎯 Sairaj Ajgaonkar – From Visuals to Visualizations
 
 🎨 Ex-Animator turned Data Analyst | 📊 Power BI & Python Enthusiast | 🧠 Insight Hunter | 🧠 Curious Learner  | 💬 Storyteller with Data
 
