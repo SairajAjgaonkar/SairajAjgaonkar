@@ -23,10 +23,12 @@ Skilled in tools like **Python, SQL, Power BI, and Excel**, I’m also adept at 
 ### 🧰 **Core Skills**
 
 #### 📊 **Technical**  
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn)  
-- SQL & MySQL  
-- Power BI, Excel, Git, Jupyter  
-- HTML, CSS, C++, GitHub  
+ Languages: Python, SQL, C++, HTML5, CSS3
+ Dashboards & Analysis: Power BI, Excel, Jupyter Notebook
+ Libraries: Pandas, NumPy, Scikit-learn, Matplotlib
+ Version Control: Git & GitHub
+ Adobe : PhotoShop, Premier pro, AfterEffects
+ AutoDesk: Maya, Max, Blender, Nuke, Unreal
 
 #### 💡 **Soft Skills**  
 - Analytical Thinking & Decision Making  
