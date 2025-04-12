@@ -1,6 +1,4 @@
-Of course, Sairaj! Here's an extended and enriched version of your **Overview** that expands on your journey, adds a personal touch, and enhances your positioning as a versatile and evolving Data Analyst:
 
----
 
 ### 👋 Hello, I’m Sairaj Ajgaonkar  
 🎓 BA Graduate | 🎬 Ex-Animator & VFX Artist | 📊 Data Analyst | 💡 Insight Seeker | 🧠 Curious Learner  
@@ -73,9 +71,9 @@ I don’t just “analyze” data — I **translate it into decisions**, **visua
 
 ### 📫 **Let’s Connect**  
 - **Email**: sairajajgaonkar@gmail.com  
-- **Phone**: +91 8655631410  
+- **Phone**: +91 8655631410 / +91 7021271952 
 - **LinkedIn / GitHub / Portfolio**: [Add Links]  
 
 ---
 
-Would you like me to turn this into a **personal portfolio webpage**, a **PDF resume summary**, or a **LinkedIn 'About' section**?
+
