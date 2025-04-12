@@ -1,8 +1,9 @@
 
 
-### 👋 Hello, I’m Sairaj Ajgaonkar  
-🎓 BA Graduate | 🎬 Ex-Animator & VFX Artist | 🎨 Ex-Animator turned Data Analyst | 📊 Power BI & Python Enthusiast | 🧠 Insight Hunter | 🧠 Curious Learner  | 💬 Storyteller with Data
+---
 
+### 👋 Hello, I’m Sairaj Ajgaonkar  
+🎓 BA Graduate | 🎬 Ex-Animator & VFX Artist | 📊 Data Analyst | 💡 Insight Seeker | 🧠 Curious Learner  
 
 ---
 
@@ -23,12 +24,12 @@ Skilled in tools like **Python, SQL, Power BI, and Excel**, I’m also adept at 
 ### 🧰 **Core Skills**
 
 #### 📊 **Technical**  
- Languages: Python, SQL, C++, HTML5, CSS3
- Dashboards & Analysis: Power BI, Excel, Jupyter Notebook
- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib
- Version Control: Git & GitHub
- Adobe : PhotoShop, Premier pro, AfterEffects
- AutoDesk: Maya, Max, Blender, Nuke, Unreal
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn)  
+- SQL & MySQL  
+- Power BI, Excel, Git, Jupyter  
+- HTML, CSS, C++, GitHub  
+- Adobe PhotoShop, Premier-Pro, After-Effects, Nuke
+- AutoDesk Maya, Max, Blender, Unreal
 
 #### 💡 **Soft Skills**  
 - Analytical Thinking & Decision Making  
@@ -74,8 +75,8 @@ I don’t just “analyze” data — I **translate it into decisions**, **visua
 
 ### 📫 **Let’s Connect**  
 - **Email**: sairajajgaonkar@gmail.com  
-- **Phone**: +91 8655631410  
-- **LinkedIn / GitHub / Portfolio**: [Add Links]  
+- **Phone**: +91 8655631410  / +91 7021271952
+- **LinkedIn / GitHub  
 
 ---
 
