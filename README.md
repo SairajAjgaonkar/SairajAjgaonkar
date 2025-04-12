@@ -1,40 +1,32 @@
+🎯 Sairaj Ajgaonkar – From Visuals to Visualizations
+🎨 Ex-Animator turned Data Analyst | 📊 Power BI & Python Enthusiast | 🧠 Insight Hunter | 💬 Storyteller with Data
 
+🌟 Who Am I?
+Hey there! I’m Sairaj – a creative mind with a data-driven heart.
+My journey started behind the scenes of animated frames, crafting stories visually. Today, I bring that same creativity, structure, and storytelling to the world of data.
 
-### 👋 Hello, I’m Sairaj Ajgaonkar  
-🎓 BA Graduate | 🎬 Ex-Animator & VFX Artist | 📊 Data Analyst | 💡 Insight Seeker | 🧠 Curious Learner  
+With hands-on experience in animation pipelines and now in data analytics, I’ve mastered the art of transforming complex data into clear, actionable insights.
 
----
+I don’t just analyze numbers—I breathe life into them, making sure every data point speaks.
 
-### 🧭 **My Journey: From Frames to Forecasts**  
-My professional story began in the world of creativity — where I led animation teams, coordinated production pipelines, and brought visual concepts to life. But over time, I became more fascinated by the **"why" behind behaviors**, the **"what" in the trends**, and the **"how" that drives smarter decisions**.  
+🚀 What I Do Best
+✔️ Turn messy data into meaningful stories
+✔️ Find patterns that others might miss
+✔️ Build interactive dashboards that simplify decisions
+✔️ Collaborate across teams to deliver real impact
+✔️ Combine creative intuition with analytical precision
 
-That passion sparked my transition into the world of **data analytics** — a space where I now combine creativity, logic, and precision to decode patterns, visualize data stories, and fuel data-informed decisions.
+🛠️ My Toolbox
+🔧 Tech & Tools
+Languages: Python, SQL, C++, HTML5, CSS3
+Dashboards & Analysis: Power BI, Excel, Jupyter Notebook
+Libraries: Pandas, NumPy, Scikit-learn, Matplotlib
+Version Control: Git & GitHub
 
----
+💬 Soft Skills
+Creativity meets Logic • Team Player • Effective Communicator
+Fast Learner • Detail Obsessed • Deadline Driven
 
-### 💼 **Professional Summary**  
-I am a results-oriented **Data Analyst/Business Analyst** with a unique blend of technical acumen and creative vision. I specialize in analyzing large datasets, uncovering actionable insights, and building **interactive dashboards** that help businesses understand their performance and anticipate future outcomes.  
-
-Skilled in tools like **Python, SQL, Power BI, and Excel**, I’m also adept at problem-solving, stakeholder communication, and translating complex information into easy-to-understand visual reports.
-
----
-
-### 🧰 **Core Skills**
-
-#### 📊 **Technical**  
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn)  
-- SQL & MySQL  
-- Power BI, Excel, Git, Jupyter  
-- HTML, CSS, C++, GitHub  
-- Adobe PhotoShop, AfterEffects, Premier Pro
-- Autodesk Maya, Max, Blender, Unreal
-
-#### 💡 **Soft Skills**  
-- Analytical Thinking & Decision Making  
-- Attention to Detail  
-- Effective Communication & Storytelling  
-- Team Leadership & Cross-functional Collaboration  
-- Creativity with Logic  
 
 ---
 
