@@ -31,13 +31,6 @@ Skilled in tools like **Python, SQL, Power BI, and Excel**, I’m also adept at 
 - Adobe PhotoShop, Premier-Pro, After-Effects, Nuke
 - AutoDesk Maya, Max, Blender, Unreal
 
-#### 💡 **Soft Skills**  
-- Analytical Thinking & Decision Making  
-- Attention to Detail  
-- Effective Communication & Storytelling  
-- Team Leadership & Cross-functional Collaboration  
-- Creativity with Logic  
-
 ---
 
 ### 🔍 **Projects That Define Me**
@@ -60,11 +53,8 @@ While not a "typical" data project, my experience as an animator taught me **pro
 ---
 
 ### 🌱 **Currently Exploring**  
-- Advanced ML concepts like Decision Trees, Random Forest, and Regression  
-- Data Engineering foundations  
-- Automating data pipelines with Python  
-- Deep Learning using TensorFlow & Keras  
-- Streamlit for building data apps  
+- **Machine Learning & Deep Learning**: Covers Decision Trees, Random Forest, Regression, TensorFlow, and Keras for advanced model building.  
+- **Data Engineering & Automation**: Focuses on foundational data engineering concepts, automating pipelines with Python, and building data apps using Streamlit.  
 
 ---
 
